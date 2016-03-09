@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/VevoxDigital/aurora-minecraft/issues"
   },
-  "homepage": "https://github.com/VevoxDigital/aurora-minecraft#readme"
+  "homepage": "https://github.com/VevoxDigital/aurora-minecraft#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
