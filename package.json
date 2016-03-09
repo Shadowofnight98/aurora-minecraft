@@ -1,0 +1,26 @@
+{
+  "name": "aurora-minecraft",
+  "version": "0.1.0",
+  "description": "Aurora MC - A completely NodeJS Minecraft server",
+  "main": "server.js",
+  "scripts": {
+    "test": "grunt test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VevoxDigital/aurora-minecraft.git"
+  },
+  "keywords": [
+    "minecraft",
+    "nodejs"
+  ],
+  "authors": [
+    "Matthew Struble <matt@vevox.io>"
+  ],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/VevoxDigital/aurora-minecraft/issues"
+  },
+  "homepage": "https://github.com/VevoxDigital/aurora-minecraft#readme"
+}
