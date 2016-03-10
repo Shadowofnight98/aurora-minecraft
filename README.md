@@ -24,7 +24,7 @@ Aurora MC can also integrate with an existing NodeJS application, allowing you t
 
 Start by installing Aurora MC as a dependency through `npm`.
 
-    npm install aurora
+    npm install aurora-minecraft
 
 Aurora MC works by creating a series of server objects that can be stopped and started at any time. Start by creating a server.
 
