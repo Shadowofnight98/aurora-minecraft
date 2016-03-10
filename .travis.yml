@@ -12,3 +12,8 @@ install:
 branches:
   only:
     - master
+notifications:
+  slack:
+    on_success: change
+    on_failure: always
+  email: false
