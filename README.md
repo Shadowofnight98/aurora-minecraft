@@ -28,7 +28,7 @@ Start by installing Aurora MC as a dependency through `npm`.
 
 Aurora MC works by creating a series of server objects that can be stopped and started at any time. Start by creating a server.
 
-    var AuroraServer = require('aurora');
+    var AuroraServer = require('aurora-minecraft');
 
     // Create a new server object.
     var server = new AuroraServer(options);
