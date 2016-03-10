@@ -25,5 +25,12 @@
   "homepage": "https://github.com/VevoxDigital/aurora-minecraft#readme",
   "devDependencies": {
     "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "nconf": "^0.8.4",
+    "node-uuid": "^1.4.7",
+    "path": "^0.12.7",
+    "winston": "^2.2.0"
   }
 }
